@@ -1,0 +1,6 @@
+{
+  "name": "Healthcare Analytics & CAIO Executive Intelligence Suite",
+  "description": "Interactive executive analytics dashboard for hospital leadership, Chief AI Officer transformation roadmap, and 10-step clinical communication quality evaluator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
